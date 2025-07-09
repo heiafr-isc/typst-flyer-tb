@@ -24,7 +24,7 @@
 
   #let subtitle = context (
     if text.lang == "fr" {
-      "Résumé du travail de Bachelor"
+      "Résumé travail de Bachelor"
     } else if text.lang == "de" {
       "Zusammenfassung Bachelorarbeit"
     } else {
