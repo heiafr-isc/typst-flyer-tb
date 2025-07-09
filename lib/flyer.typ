@@ -41,7 +41,7 @@
       } else if program == "GM" {
         "Génie Mécanique"
       } else {
-        "UNKNOWN PROGRAM : " + program
+        "UNKNOWN PROGRAM: " + program
       }
     } else if text.lang == "de" {
       if program == "ISC" {
@@ -51,7 +51,7 @@
       } else if programm = "GM" {
         "Maschinentechnik"
       } else {
-        "UNKNOWN PROGRAM" + program
+        "UNKNOWN PROGRAM:" + program
       }
     } else {
       if program == "ISC" {
@@ -61,7 +61,7 @@
       } else if program = "GM" {
         "Mechanical Engineering"
       } else {
-        "UNKNOWN PROGRAM" + program
+        "UNKNOWN PROGRAM:" + program
       }
     }
   )
