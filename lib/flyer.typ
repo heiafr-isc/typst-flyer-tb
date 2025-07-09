@@ -152,11 +152,7 @@
   #v(5mm)
 
   #set par(justify: true)
-
-  #columns(
-    2,
-    doc,
-  )
+  #doc
 ]
 
 

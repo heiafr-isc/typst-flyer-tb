@@ -18,6 +18,9 @@
   title: [La théorie de la relativité],
 )
 
+#columns(
+  2, [
+
 #summary([
   #lorem(40)
 ])
@@ -43,3 +46,4 @@
 == Sous-titre
 #lorem(140)
 
+])
