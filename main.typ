@@ -1,3 +1,6 @@
+// Example flyer for HEIA-FR Bachelor thesis summary
+// Jacques Supcik, July 2025
+
 #import "lib/flyer.typ": flyer, summary
 
 #show: flyer.with(
